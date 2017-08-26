@@ -7,7 +7,7 @@ Running the file: Make sure the .cpp and the .py files are in the same directory
 
 Execution:
 
-python webcrawler.py
+```python webcrawler.py```
 (
     You will have to mention whether it is a challenge or not and specify the codes as asked.
     Next mention the name of your cpp file with .cpp extension.
@@ -16,6 +16,6 @@ python webcrawler.py
 Once the above has executed you just need to run the below command everytime you make any changes to your code.
 It will automatically run your code with the example test cases and notify if all test cases have passed or where your code fails.
 
-./run.sh
+```./run.sh```
 
 Good Luck!!
